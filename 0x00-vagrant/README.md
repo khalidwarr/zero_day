@@ -1,1 +1,1 @@
-This is the README for vagrant.
+This is the README file.
